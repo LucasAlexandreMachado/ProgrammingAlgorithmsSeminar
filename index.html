@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ThinkFutere Ambiental</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <h1>ThinkFutere Ambiental: Pensando em um ambiente melhor para você!</h1>
+    </div>
+    <div class="list-container">
+        <h2>Apoie nossos projetos cadastrados:</h2>
+        <ul id="project-list"></ul>
+    </div>
+    <div class="form-container">
+        <h2>Venha fazer parte. Cadastre o seu projeto:</h2>
+        <form id="project-form">
+            <label for="ong-name">Nome da ONG:</label>
+            <input type="text" id="ong-name" required>
+            <label for="cnpj">CNPJ:</label>
+            <input type="text" id="cnpj" required pattern="\d{2}\.\d{3}\.\d{3}\/\d{4}-\d{2}" placeholder="00.000.000/0000-00">
+            <label for="project-name">Nome do Projeto:</label>
+            <input type="text" id="project-name" required>
+            <label for="project-description">Descrição:</label>
+            <textarea id="project-description" required></textarea>
+            <label for="contact-email">Email de Contato:</label>
+            <input type="email" id="contact-email" required>
+            <label for="funding-method">Forma de Arrecadação:</label>
+            <input type="text" id="funding-method" required>
+            <label for="status">Status:</label>
+            <input type="text" id="status" required>
+            <button type="submit">Cadastrar</button>
+        </form>
+    </div>
+    <script src="scripts.js"></script>
+</body>
+</html>
