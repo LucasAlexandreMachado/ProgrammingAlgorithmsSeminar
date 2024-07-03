@@ -16,7 +16,7 @@ Este é um projeto de seminário que visa desenvolver um programa para o cadastr
 
 ## 💻 Tecnologias Utilizadas
 
-- [🐍 Python](pythnVersion.py)
+- [🐍 Python](pythonVersion.py)
 - [📜 JavaScript](scripts.js)
 - [🌐 Html](index.html)
 - [🎨 Css](style.css)
