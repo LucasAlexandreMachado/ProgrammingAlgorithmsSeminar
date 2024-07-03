@@ -1,22 +1,22 @@
-# Projeto de Seminário: Cadastro de ONGs para Arrecadação de Dinheiro
+# 🎓 Projeto de Seminário: Cadastro de ONGs para Arrecadação de Dinheiro
 
-Este é um projeto de seminário que visa desenvolver um programa para o cadastro de ONGs com o objetivo de arrecadar dinheiro. O programa terá funcionalidades para registrar, listar, editar e excluir informações das ONGs
+Este é um projeto de seminário que visa desenvolver um programa para o cadastro de ONGs com o objetivo de arrecadar dinheiro. O programa terá funcionalidades para registrar, listar, editar e excluir informações das ONGs.
 
-## Grupo
+## 👥 Grupo
 
-Lucas Alexandre Machado
-Diego Nyland Bloemer
+- Lucas Alexandre Machado
+- Diego Nyland Bloemer
 
-## Funcionalidades
+## ⚙️ Funcionalidades
 
-- Cadastro
-- Listagem
-- Exclusão
-- Edição
+- 📋 Cadastro
+- 📄 Listagem
+- 🗑️ Exclusão
+- ✏️ Edição
 
-## Tecnologias Utilizadas
+## 💻 Tecnologias Utilizadas
 
-- [Python](pythnVersion.py)
-- [JavaScript](scripts.js)
-- [Html](index.html)
-- [Css](style.css)
+- [🐍 Python](pythnVersion.py)
+- [📜 JavaScript](scripts.js)
+- [🌐 Html](index.html)
+- [🎨 Css](style.css)
